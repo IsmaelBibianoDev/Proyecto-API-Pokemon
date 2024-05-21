@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pokédex</string>
+    <string name="txt_bvdquizz">Bienvendio al Pokédex</string>
+    <string name="txt_frase">Diviertete conociendo informacion acerca de los pokémones ¡¡VAMOS!!</string>
+    <string name="txt_biemvenida">Presione para continuar</string>
+    <string name="txt_ingresar">Ingrese el nombre del pokémon a consultar</string>
+    <string name="btn_start">INICIAR</string>
+    <string name="btn_exit">SALIR</string>
+    <string name="btn_regresar">REGRESAR</string>
+    <string name="btn_consultar">CONSULTAR</string>
+</resources>
